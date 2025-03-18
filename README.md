@@ -204,51 +204,51 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
--  1.grayscale image
--  ![image](https://github.com/user-attachments/assets/7f6ba8f2-70a3-4a1c-8fcb-cb487187ceb0)
+ **i)** Read and Display an Image.
+  1.grayscale image
+   ![image](https://github.com/user-attachments/assets/7f6ba8f2-70a3-4a1c-8fcb-cb487187ceb0)
 
-- 
-- 2.saving image in png format and displaying
-- ![image](https://github.com/user-attachments/assets/528284b8-f06f-476f-bedc-466764c4ab9f)
-- 3.cropped image
-- ![image](https://github.com/user-attachments/assets/d57326a5-ddb7-46a8-a2bc-7ef626a499c0)
-- 4.flipped image
-- ![image](https://github.com/user-attachments/assets/f36040ec-7f15-4207-aa1f-1ed460aec335)
-- 5.apollo launch final image
-- ![image](https://github.com/user-attachments/assets/81d0d5fa-ba2b-4dfc-9498-894132ebb3bd)
+ 
+ 2.saving image in png format and displaying
+ ![image](https://github.com/user-attachments/assets/528284b8-f06f-476f-bedc-466764c4ab9f)
+  3.cropped image
+  ![image](https://github.com/user-attachments/assets/d57326a5-ddb7-46a8-a2bc-7ef626a499c0)
+ 4.flipped image
+ ![image](https://github.com/user-attachments/assets/f36040ec-7f15-4207-aa1f-1ed460aec335)
+ 5.apollo launch final image
+ ![image](https://github.com/user-attachments/assets/81d0d5fa-ba2b-4dfc-9498-894132ebb3bd)
 
-- **ii)** Adjust Image Brightness.
-- ![image](https://github.com/user-attachments/assets/dfb247fc-37ee-462c-ba13-0505886d6dee)
-- ![image](https://github.com/user-attachments/assets/e3f8bb16-bf7d-4072-a50b-03eb7bd752ff)
-- ![image](https://github.com/user-attachments/assets/849a6181-ec6b-4b4d-94f1-c48370073cb2)
-
-
-
-- 
-- **iii)** Modify Image Contrast.
-- ![image](https://github.com/user-attachments/assets/b75016c8-ec79-4559-8fc6-98b78bf3a1de)
-- ![image](https://github.com/user-attachments/assets/e049efa3-37e3-48d1-8a63-776221352610)
-- ![image](https://github.com/user-attachments/assets/81cbdff7-baff-43ad-a33a-9c166b4d43d6)
-- ![image](https://github.com/user-attachments/assets/4742235d-b431-4cb9-8347-6298e85f52c3)
+ **ii)** Adjust Image Brightness.
+ ![image](https://github.com/user-attachments/assets/dfb247fc-37ee-462c-ba13-0505886d6dee)
+ ![image](https://github.com/user-attachments/assets/e3f8bb16-bf7d-4072-a50b-03eb7bd752ff)
+ ![image](https://github.com/user-attachments/assets/849a6181-ec6b-4b4d-94f1-c48370073cb2)
 
 
 
+ 
+ **iii)** Modify Image Contrast.
+ ![image](https://github.com/user-attachments/assets/b75016c8-ec79-4559-8fc6-98b78bf3a1de)
+ ![image](https://github.com/user-attachments/assets/e049efa3-37e3-48d1-8a63-776221352610)
+ ![image](https://github.com/user-attachments/assets/81cbdff7-baff-43ad-a33a-9c166b4d43d6)
+ ![image](https://github.com/user-attachments/assets/4742235d-b431-4cb9-8347-6298e85f52c3)
 
-- 
-- **iv)** Generate Third Image Using Bitwise Operations.
-- 1.splitting into b,g,r
-- ![image](https://github.com/user-attachments/assets/127007e0-821d-4aac-bf87-41a241b95895)
-- ![image](https://github.com/user-attachments/assets/0406548b-aeac-434f-8318-afa59e1de2da)
-- ![image](https://github.com/user-attachments/assets/fde3c088-f23c-4f12-b7ca-4df825ffc311)
-- 2.Merged bgr image
-- ![image](https://github.com/user-attachments/assets/46753c9f-84bf-4f6e-a5d9-eeaccbfc2f26)
-- 3.splitting into h,s,v components
-- ![image](https://github.com/user-attachments/assets/d38ffe46-2576-47a7-b5a4-85f3014c620c)
-- ![image](https://github.com/user-attachments/assets/29c7b1f6-4fb9-46ef-8a4c-f8dfdb291a0a)
-- ![image](https://github.com/user-attachments/assets/868cfec9-9886-4524-8691-814856aeb1e6)
-- 4.final output
-- ![image](https://github.com/user-attachments/assets/a5016c27-ec1d-4ca7-977b-fa1edabd65ec)
+
+
+
+ 
+ **iv)** Generate Third Image Using Bitwise Operations.
+ 1.splitting into b,g,r
+ ![image](https://github.com/user-attachments/assets/127007e0-821d-4aac-bf87-41a241b95895)
+ ![image](https://github.com/user-attachments/assets/0406548b-aeac-434f-8318-afa59e1de2da)
+ ![image](https://github.com/user-attachments/assets/fde3c088-f23c-4f12-b7ca-4df825ffc311)
+ 2.Merged bgr image
+ ![image](https://github.com/user-attachments/assets/46753c9f-84bf-4f6e-a5d9-eeaccbfc2f26)
+ 3.splitting into h,s,v components
+ ![image](https://github.com/user-attachments/assets/d38ffe46-2576-47a7-b5a4-85f3014c620c)
+ ![image](https://github.com/user-attachments/assets/29c7b1f6-4fb9-46ef-8a4c-f8dfdb291a0a)
+ ![image](https://github.com/user-attachments/assets/868cfec9-9886-4524-8691-814856aeb1e6)
+ 4.final output
+ ![image](https://github.com/user-attachments/assets/a5016c27-ec1d-4ca7-977b-fa1edabd65ec)
 
 
 
